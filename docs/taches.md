@@ -19,7 +19,7 @@
 
 | Fiche agronomique ; README ; documents | 04/11/2026 | 05/11/2026| à finaliser après lecture du caoch agronomie; README à finaliser et à renseigner |
 
-| Dépôt cloné et lancé ailleurs ; démonstration répétée | 04/11/2026 | | |
+| Dépôt cloné et lancé ailleurs ; démonstration répétée | 04/11/2026 |  05/11/2026 | oui cloner par le poste de Soumahoro Cheick https://github.com/Chiki86/brief-2-inventaire-pepiniere |
 
 | Bonus | 04/11/2026 | 04/11/2026 | suppression, modification, tri décroissant et groupe le plus fourni vérifiés |
 
