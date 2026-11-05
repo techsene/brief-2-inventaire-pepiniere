@@ -11,9 +11,10 @@
 | --- | --- | --- | --- |
 | Vérification de l'application (nmp test) | que les tests s'exécutent | les tests reuissis apparaissent en vert | RODRIGUE |
 | lancement de l'applicement de l'application (node app.js) | verifier que le menu principal s'execute sans erreur| le menu affiche 11 espèces chargées | RODRIGUE |
-| ✏️ | | | |
-| ✏️ | | | |
-| ✏️ | | | |
-| ✏️ | | | |
+| MODIFICATION DE DATE |NOUVELLE DATE | Plant N12 modifié| https://github.com/Chiki86/brief-2-inventaire-pepiniere Ceick |
+| Recherche | trouver une espèce par le code| espèce trouvé | RDRIGUE |
+| Lister l'inventair | trouver tout les espèces listés | liste des espèces | Cheick |
+| ajoute d'une espèce | ajouter des espèce à la liste | espèce ajouté | Rodrigue |
+|Recherche nom "cacao"|1 espèce (N01) \| cacao \| angiosperme \|30 plants| Marc Boti|
 
-**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : ✏️
+**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : SOUMAHORO Cheick, BOTI Marc
