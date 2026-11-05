@@ -9,8 +9,9 @@
 | Espèce de l'inventaire | Groupe | Critère de la fiche botanique | Observé (ou pas pu l'observer) |
 | --- | --- | --- | --- |
 | cacao | angiosperme | L'ovule est renfermé dans un ovaire | feuilles (observé) |
-| ✏️ | gymnosperme | | |
+| pin | gymnosperme | les ovules ne sont pas enfermés dans un ovaire; ils sont portés par les écailles|  |
 
 **Le seuil de 10 plants dit-il qu'il faut produire davantage d'une espèce ?** ✏️
+Non. Le seuil de 10 plants est un indicateur pédagogique de suivi du stock. Il permet de repérer les epèces dont l'effectif est faible ou égal à 10 afin d'assurer une suveillance particulière.
 
 Sources et origine des observations : ✏️ · Relu par le coach le : ✏️
